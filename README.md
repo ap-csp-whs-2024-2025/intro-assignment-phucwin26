@@ -10,6 +10,7 @@
 
 ## About Me
 Answer the questions below
-* Something interesting about me is
-* Ask Mr. Vu anything:
+* Something interesting about me is I spent half of my life in Vietnam
+* Ask Mr. Vu anything: how to do L'Hospital
 * List your sports and extracurriculars you participate in
+Badminton
